@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:tteltrab/testing-demo.git"
+    "url": "git@github.com:jdwitten/testing-demo.git"
   },
   "keywords": [
     "gh",
@@ -15,10 +15,10 @@
     "cd",
     "example"
   ],
-  "author": "Nicholas Bartlett",
+  "author": "Jonathan Witten",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tteltrab/testing-demo/issues"
+    "url": "https://github.com/jdwitten/testing-demo/issues"
   },
-  "homepage": "https://github.com/tteltrab/testing-demo#readme"
+  "homepage": "https://github.com/jdwitten/testing-demo#readme"
 }
